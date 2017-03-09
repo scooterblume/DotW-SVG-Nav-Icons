@@ -1,4 +1,12 @@
-<svg id="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 241.71 241.71">
-  <title>search-icon</title>
-  <path d="M153.21,153.21l91.94,91.94M91.76,5.14A86.61,86.61,0,1,1,5.14,91.76,86.61,86.61,0,0,1,91.76,5.14Zm73.43,87.67c.66-40.65-30.83-74.06-70.41-74.7" transform="translate(-4.14 -4.14)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="search-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="-184 276.3 241.7 241.7" style="enable-background:new -184 276.3 241.7 241.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<title>search-icon</title>
+<line class="st0" x1="-35" y1="425.2" x2="56.9" y2="517.1"/>
+<path class="st0" d="M-23,364.8c0.7-40.6-30.8-74.1-70.4-74.7"/>
+<circle class="st0" cx="-96.7" cy="363.5" r="86.4"/>
 </svg>

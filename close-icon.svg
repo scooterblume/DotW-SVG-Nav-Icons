@@ -1,4 +1,14 @@
-<svg id="close-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 242 242">
-  <title>close-icon</title>
-  <path d="M125,5A120,120,0,1,0,245,125,120,120,0,0,0,125,5Zm0,120,53.76-76.8m0,153.6L125,125M71.24,200.84,125,125M71.24,49.16,125,125" transform="translate(-4 -4)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="close-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-184 276 242 242" style="enable-background:new -184 276 242 242;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<title>close-icon</title>
+<circle class="st0" cx="-63" cy="397" r="120"/>
+<line class="st0" x1="-63" y1="397" x2="-9.2" y2="320.2"/>
+<line class="st0" x1="-9.2" y1="473.8" x2="-63" y2="397"/>
+<line class="st0" x1="-116.8" y1="472.8" x2="-63" y2="397"/>
+<line class="st0" x1="-116.8" y1="321.2" x2="-63" y2="397"/>
 </svg>

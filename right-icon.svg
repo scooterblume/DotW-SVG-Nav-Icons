@@ -1,4 +1,27 @@
-<svg id="right-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 241.77 241.17">
-  <title>right-icon</title>
-  <path d="M157.83,5,245.1,125.53M157.83,245,245.1,124.47m-77.45,0-36,62.93m36-61.87-36-62.93M157.83,6.07l-26.18,57.6m26.18,180.27-26.18-57.6M82.77,5,149.1,125.53M82.77,245,149.1,124.47m-58.91,0L62.92,187.4M90.3,125.53,62.92,62.6M82.77,6.07,62.92,63.67M82.77,243.93l-19.85-57.6M20.92,5,73.83,125.53M20.92,245,73.83,124.47m-46.91,0L5.1,187.4m21.82-61.87L5.1,62.6M20.92,6.07,5.1,63.67M20.92,243.93,5.1,186.33" transform="translate(-4.14 -4.41)" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="right-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-184 276.8 241.8 241.2" style="enable-background:new -184 276.8 241.8 241.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<title>right-icon</title>
+<line class="st0" x1="-30.3" y1="277.4" x2="57" y2="398"/>
+<line class="st0" x1="-30.3" y1="517.4" x2="57" y2="396.9"/>
+<line class="st0" x1="-20.5" y1="396.9" x2="-56.5" y2="459.8"/>
+<line class="st0" x1="-20.5" y1="398" x2="-56.5" y2="335"/>
+<line class="st0" x1="-30.3" y1="278.5" x2="-56.5" y2="336.1"/>
+<line class="st0" x1="-30.3" y1="516.4" x2="-56.5" y2="458.8"/>
+<line class="st0" x1="-105.4" y1="277.4" x2="-39" y2="398"/>
+<line class="st0" x1="-105.4" y1="517.4" x2="-39" y2="396.9"/>
+<line class="st0" x1="-97.9" y1="396.9" x2="-125.2" y2="459.8"/>
+<line class="st0" x1="-97.8" y1="398" x2="-125.2" y2="335"/>
+<line class="st0" x1="-105.4" y1="278.5" x2="-125.2" y2="336.1"/>
+<line class="st0" x1="-105.4" y1="516.4" x2="-125.2" y2="458.8"/>
+<line class="st0" x1="-167.2" y1="277.4" x2="-114.3" y2="398"/>
+<line class="st0" x1="-167.2" y1="517.4" x2="-114.3" y2="396.9"/>
+<line class="st0" x1="-161.2" y1="396.9" x2="-183" y2="459.8"/>
+<line class="st0" x1="-161.2" y1="398" x2="-183" y2="335"/>
+<line class="st0" x1="-167.2" y1="278.5" x2="-183" y2="336.1"/>
+<line class="st0" x1="-167.2" y1="516.4" x2="-183" y2="458.8"/>
 </svg>

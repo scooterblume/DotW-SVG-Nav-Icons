@@ -1,4 +1,12 @@
-<svg id="nav-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 248.51 177.15">
-  <title>nav-icon</title>
-  <path d="M116.49,111,242.3,138.15l-83.47,74.28L8,160.41,116.5,111.08m.28-36.65,127.05,21.1-86.11,58-152.06-40Zm0-37L245.58,52,159.88,91.9,5.58,64.15Z" transform="translate(-0.71 -36.42)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="nav-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-181 308.9 248.5 177.1" style="enable-background:new -181 308.9 248.5 177.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<title>nav-icon</title>
+<polyline class="st0" points="-65.8,383.5 60,410.7 -23.5,485 -174.3,432.9 -65.8,383.6 "/>
+<polygon class="st0" points="-65.5,347 61.5,368.1 -24.6,426.1 -176.8,386.1 "/>
+<polygon class="st0" points="-65.5,310 63.3,324.5 -22.4,364.4 -176.8,336.7 "/>
 </svg>
